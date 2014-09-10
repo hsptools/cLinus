@@ -1,0 +1,18 @@
+Copyright ©2013, University of Tennessee.  All rights reserved.
+
+Developed by the Joint Institute for Computational Sciences, http://www.jics.tennessee.edu and National Institute for Computational Sciences, http://www.nics.tennessee.edu.
+
+Please site the following publications in connection with use of this software, Highly Scalable Parallel (HSP) framework, developed by Bhanu Rekepalli of the University of Tennessee.
+
+Bhanu Rekapalli, Christian Halloy, and Igor B. Zhulin. "HSP-HMMER: a tool for protein domain identification on a large scale." Proceedings of the 2009 ACM symposium on Applied Computing. ACM, 2009.
+
+B. Rekepalli, A. Vose, and P. Giblock. "HSPp-BLAST: Highly Scalable Parallel PSIBLAST for Very Large-scale Sequence Searches." 3rd International Conference on Bioinformatics and Computational Biology (BICoB). 2012.
+
+Bhanu Rekapalli, Paul Giblock, and Christopher Reardon. "PoPLAR: Portal for petascale lifescience applications and research." BMC bioinformatics 14.Suppl 9 (2013): S3.
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.  You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the License for the specific language governing permissions and limitations under the License.
+
